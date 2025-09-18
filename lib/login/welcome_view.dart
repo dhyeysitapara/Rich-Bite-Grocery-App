@@ -9,7 +9,7 @@ class WelcomeView extends StatefulWidget {
   State<WelcomeView> createState() => _WelcomeViewState();
 }
 
-class _WelcomeViewState extends State<WelcomeView> {
+clasos _WelcomeViewState extends State<WelcomeView> {
   @override
   Widget build(BuildContext context) {
     var media = MediaQuery.sizeOf(context);
